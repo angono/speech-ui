@@ -1,0 +1,16 @@
+Profile
+Bookmarks
+Settings
+Log out
+
+
+
+Home
+Explore
+People
+Help & support
+Sign in
+Sign up 
+
+transition duration-75
+
